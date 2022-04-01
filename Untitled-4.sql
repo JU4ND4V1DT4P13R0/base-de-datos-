@@ -1,0 +1,1 @@
+SELECT * FROM `marca`.`marcas_telefono` LIMIT 1000;

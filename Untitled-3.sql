@@ -1,0 +1,1 @@
+SELECT * FROM `marca`.`deportes` LIMIT 1000;
